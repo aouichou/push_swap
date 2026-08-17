@@ -95,11 +95,3 @@ ARG=$(shuf -i 1-500 -n 500 | tr '\n' ' ')
 ## Acknowledgements
 
 Developed as part of the 42Paris curriculum. Special thanks to the 42 community for algorithm discussions and optimization techniques.
-
----
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/your-profile" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your Name" height="30" width="40" />
-  </a>
-</p>
